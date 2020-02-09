@@ -354,8 +354,6 @@
                     <verbose>true</verbose>
                     <source>${java.version}</source>
                     <target>${java.version}</target>
-                    <meminitial>1024m</meminitial>
-                    <maxmem>2024m</maxmem>
                     <showWarnings>true</showWarnings>
                 </configuration>
             </plugin>
